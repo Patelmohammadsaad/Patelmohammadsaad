@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A8A,100:58A6FF&height=220&section=header&text=Patel%20Mohammadsaad&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20%26%20Machine%20Learning%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
 <p align="center">
-  <a href="https://github.com/Patelmohammadsaad"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+Intern+%40+Sparks+To+Ideas;Python+%7C+Machine+Learning+%7C+Django;Turning+Data+into+Decisions;Open+to+AI%2FML+Intern+%26+Junior+Roles" alt="Typing SVG" /></a>
+  <a href="https://github.com/Patelmohammadsaad"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+Intern+%40+Sparks+To+Ideas;Python+%7C+Machine+Learning+%7C+Django;Turning+Data+into+Decisions;Open+to+AI%2FML+Roles" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@
   <a href="mailto:saadpatel2023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-> 💡 *Open to AI/ML Intern, Trainee & Junior roles — let's build something with data!*
+> 💡 *Open to AI/ML Intern & Trainee roles — let's build something with data!*
 
 <p align="center">⭐ Star my repos if you find them useful — thanks for visiting!</p>
 
